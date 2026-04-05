@@ -10,8 +10,8 @@ interface MetaHeadProps {
 export default function MetaHead({
   title = "Hellen Baby Shower",
   description = "El regalo de la vida",
-  image = "https://vale-yoshio-wedding.vercel.app/preview.jpg",
-  url = "https://vale-yoshio-wedding.vercel.app/",
+  image = "https://baby-shower.vercel.app/preview.jpg",
+  url = "https://baby-shower.vercel.app/",
 }: MetaHeadProps) {
   return (
     <Head>

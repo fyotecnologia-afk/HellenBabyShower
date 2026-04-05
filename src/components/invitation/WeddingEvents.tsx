@@ -147,7 +147,7 @@ const WeddingSchedule: React.FC = () => {
       </Title> */}
 
       <Row gutter={[16, 16]}>
-        <Col xs={24} sm={24} md={12}>
+        <Col xs={24} sm={24} md={24}>
           <ReceptionCard reception={data.reception} />
         </Col>
       </Row>

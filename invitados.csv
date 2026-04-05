@@ -1,0 +1,94 @@
+﻿PRUEBA	PRUEBA	BS000	PRUEBA	1	PRUEBA	A	0
+MAMA	FAMILIAR	BS001	Familia Gómez	1	Ines Gómez	A	0
+MAMA	FAMILIAR	BS001	Familia Gómez	0	Ignacio López	A	0
+MAMA	FAMILIAR	BS001	Familia Gómez	0	Uriel López	A	0
+MAMA	FAMILIAR	BS002	Familia Gómez	1	Emiliano López	A	0
+MAMA	FAMILIAR	BS003	Familia Gómez	1	Ángel Dolores	A	0
+MAMA	FAMILIAR	BS003	Familia Gómez	0	Lendaly Galván	A	0
+MAMA	FAMILIAR	BS004	Familia Gómez	1	Mary Carmen Gómez	A	0
+MAMA	FAMILIAR	BS004	Familia Gómez	0	Juan Gomez	A	0
+MAMA	FAMILIAR	BS005	Familia Gómez	1	Yolanda Gomez	A	0
+MAMA	FAMILIAR	BS005	Familia Gómez	0	Candido Paez	A	0
+MAMA	FAMILIAR	BS006	Familia Gómez	1	Israel Paez	A	0
+MAMA	FAMILIAR	BS006	Familia Gómez	0	Veronica Cortes	A	0
+MAMA	FAMILIAR	BS006	Familia Gómez	0	Yeshua Paez	A	0
+MAMA	FAMILIAR	BS006	Familia Gómez	0	Enrique Paez	N	0
+MAMA	FAMILIAR	BS007	Familia Gómez	1	Fabiola Paez	A	0
+MAMA	FAMILIAR	BS007	Familia Gómez	0	Francisco Campos	A	0
+MAMA	FAMILIAR	BS007	Familia Gómez	0	Francisco Campos P.	N	0
+MAMA	FAMILIAR	BS007	Familia Gómez	0	Fabiola Campos	N	0
+MAMA	FAMILIAR	BS008	Familia Gómez	1	Juan Pablo Paez	A	0
+MAMA	FAMILIAR	BS008	Familia Gómez	0	Concepcion Luna	A	0
+MAMA	FAMILIAR	BS008	Familia Gómez	0	Enrique Paez	A	0
+MAMA	FAMILIAR	BS008	Familia Gómez	0	Maximo Paez	N	0
+MAMA	FAMILIAR	BS009	Familia Gómez	1	Julio Gomez	A	0
+MAMA	FAMILIAR	BS009	Familia Gómez	0	Sandra	A	0
+MAMA	FAMILIAR	BS009	Familia Gómez	0	Monica Gomez	N	0
+MAMA	FAMILIAR	BS009	Familia Gómez	0	Karla Gomez	N	0
+MAMA	FAMILIAR	BS010	Familia Gómez	1	Norma Medina	A	0
+MAMA	FAMILIAR	BS010	Familia Gómez	0	Karina Gomez	A	0
+MAMA	FAMILIAR	BS010	Familia Gómez	0	Adrian	N	0
+MAMA	FAMILIAR	BS010	Familia Gómez	0	Gael	N	0
+MAMA	FAMILIAR	BS011	Familia Gómez	1	Gabriela Gomez	A	0
+MAMA	FAMILIAR	BS011	Familia Gómez	0	Israel Galvan	A	0
+MAMA	FAMILIAR	BS011	Familia Gómez	0	Guadalupe Galvan	A	0
+MAMA	FAMILIAR	BS011	Familia Gómez	0	Gabriel Galvan	N	0
+MAMA	FAMILIAR	BS011	Familia Gómez	0	Leonardo Galvan	N	0
+MAMA	FAMILIAR	BS012	Familia Gatica	1	Claudia Gatica	A	0
+MAMA	FAMILIAR	BS012	Familia Gatica	0	Johana Gatica	A	0
+MAMA	FAMILIAR	BS012	Familia Gatica	0	Roxana Gatica	A	0
+MAMA	FAMILIAR	BS012	Familia Gatica	0	Claudia Gatica	A	0
+MAMA	FAMILIAR	BS012	Familia Gatica	0	Jenni Gatica	A	0
+MAMA	FAMILIAR	BS013	Familia Torres	1	Miguel Torres	A	0
+MAMA	FAMILIAR	BS013	Familia Torres	0	Tania villalba	A	0
+MAMA	FAMILIAR	BS013	Familia Torres	0	Isis Torres	A	0
+MAMA	FAMILIAR	BS013	Familia Torres	0	Michell Torres	A	0
+MAMA	FAMILIAR	BS013	Familia Torres	0	Ximena torres	A	0
+PAPA	FAMILIAR	BS014	Familia César García	1	Guillermo César	A	0
+PAPA	FAMILIAR	BS014	Familia César García	0	Norma García	A	0
+PAPA	FAMILIAR	BS014	Familia César García	0	Grisell César	A	0
+PAPA	FAMILIAR	BS015	Familia César García	1	Guillermo César	A	0
+PAPA	FAMILIAR	BS015	Familia César García	0	Alejandra García	A	0
+PAPA	FAMILIAR	BS016	Familia César de Jesús	1	Federico César	A	0
+PAPA	FAMILIAR	BS016	Familia César de Jesús	0	Lourdes de Jesús	A	0
+PAPA	FAMILIAR	BS016	Familia César de Jesús	0	Berenice César	A	0
+PAPA	FAMILIAR	BS017	Familia César Silva	1	Óscar César	A	0
+PAPA	FAMILIAR	BS017	Familia César Silva	0	Macarena Silva	A	0
+PAPA	FAMILIAR	BS018	Familia César Espejel	1	Federico César	A	0
+PAPA	FAMILIAR	BS018	Familia César Espejel	0	Mariana Espejel	A	0
+PAPA	FAMILIAR	BS018	Familia César Espejel	0	Maximiliano César	N	0
+PAPA	FAMILIAR	BS018	Familia César Espejel	0	Leo César	N	0
+PAPA	FAMILIAR	BS019	Familia García	1	Minerva García	A	0
+PAPA	FAMILIAR	BS019	Familia García	0	Montserrat García	A	0
+PAPA	FAMILIAR	BS019	Familia García	0	Laura García	A	0
+PAPA	FAMILIAR	BS019	Familia García	0	Justine García	N	0
+PAPA	FAMILIAR	BS019	Familia García	0	Mia García	N	0
+PAPA	FAMILIAR	BS020	Familia Vázquez García	1	Facundo Vázquez	A	0
+PAPA	FAMILIAR	BS020	Familia Vázquez García	0	Elena García	A	0
+PAPA	FAMILIAR	BS021	Familia Pérez Vázquez	1	Emmanuel Pérez	A	0
+PAPA	FAMILIAR	BS021	Familia Pérez Vázquez	0	Karen Vázquez	A	0
+PAPA	FAMILIAR	BS021	Familia Pérez Vázquez	0	Elena Pérez	N	0
+PAPA	FAMILIAR	BS021	Familia Pérez Vázquez	0	Emma Pérez	N	0
+PAPA	FAMILIAR	BS022	Familia Vázquez Villegas	1	Isaac Vázquez	A	0
+PAPA	FAMILIAR	BS022	Familia Vázquez Villegas	0	Elizabeth Villegas	A	0
+PAPA	FAMILIAR	BS022	Familia Vázquez Villegas	0	Ángel Villegas	A	0
+PAPA	FAMILIAR	BS022	Familia Vázquez Villegas	0	Su otra hia	A	0
+PAPA	FAMILIAR	BS023	Familia Vázquez Monroy	1	Jairo Vázquez	A	0
+PAPA	FAMILIAR	BS023	Familia Vázquez Monroy	0	Cynthia Monroy	A	0
+PAPA	FAMILIAR	BS023	Familia Vázquez Monroy	0	Renata Vázquez	A	0
+PAPA	FAMILIAR	BS023	Familia Vázquez Monroy	0	Nathalia Vázquez	A	0
+PAPA	FAMILIAR	BS023	Familia Vázquez Monroy	0	Regina Vázquez	N	0
+PAPA	FAMILIAR	BS024	Familia Vázquez Ocampo	1	Isaías Vázquez	A	0
+PAPA	FAMILIAR	BS024	Familia Vázquez Ocampo	0	Fabiola Ocampo	A	0
+PAPA	FAMILIAR	BS024	Familia Vázquez Ocampo	0	Tadeo Vázquez	N	0
+PAPA	FAMILIAR	BS024	Familia Vázquez Ocampo	0	Paola Vázquez	N	0
+PAPA	AMIGO	BS025	Familia Piña Sánchez	1	Yahir Piña	A	0
+PAPA	AMIGO	BS025	Familia Piña Sánchez	0	Kenia Sánchez	A	0
+PAPA	AMIGO	BS026	Familia Hernández García	1	Juan Carlos Hernández	A	0
+PAPA	AMIGO	BS026	Familia Hernández García	0	Sarahí García	A	0
+PAPA	AMIGO	BS027	Familia Serrano	1	Salvador Serrano	A	0
+PAPA	AMIGO	BS028	Familia Lobo	1	Alberto Lobo	A	0
+PAPA	AMIGO	BS028	Familia Lobo	0	Acompañante	A	0
+PAPA	AMIGO	BS029	Familia Mellado	1	Mauricio Mellado	A	0
+PAPA	AMIGO	BS029	Familia Mellado	0	Lucía Mellado	N	0
+PAPA	AMIGO	BS029	Familia Mellado	0	Acompañante	A	0

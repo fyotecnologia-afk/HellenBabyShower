@@ -1,0 +1,5 @@
+Para subir datos a prisma:
+node prisma/seed.js
+
+Desplegar en desarrollo y ver en la misma red wifi:
+npm run dev -- -H 0.0.0.0 -- entrar con ip:3000

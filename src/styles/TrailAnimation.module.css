@@ -1,0 +1,29 @@
+.container {
+  padding: 20px 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 80px;
+}
+
+.quoteWrapper {
+  max-width: 100%;
+  text-align: center;
+  position: relative;
+  min-height: 6rem; /* reserva altura */
+}
+
+.quoteText {
+  /* font-family: var(--font-meow); */
+  font-size: 1rem;
+  font-weight: 100;
+  white-space: pre-line; /* permite que \n genere saltos de línea */
+  word-wrap: break-word;
+}
+
+.quoteWrapper {
+  white-space: pre-wrap; /* permite múltiples líneas */
+  word-wrap: break-word;
+  position: relative;
+}

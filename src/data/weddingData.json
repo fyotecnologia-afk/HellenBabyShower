@@ -1,0 +1,140 @@
+{
+  "names": "Hellen César López",
+  "date": "2026-04-12T11:00:00",
+  "slides": [
+    "/images/mansory/gallery-12.webp",
+    "/images/mansory/gallery-11.webp"
+  ],
+  "reception": {
+    "title": "Lugar",
+    "date": "2026-04-12T11:00:00",
+    "location": "Eventos Ramírez",
+    "address": "C. 16 de Septiembre 12956, Ampliación Guadalupe Hidalgo, segunda, 72494 Heroica Puebla de Zaragoza, Pue.",
+    "mapsLink": "https://maps.app.goo.gl/vWiCU8KYGBcYTkek8",
+    "imgUrl": "/icons/icono-brindis-click.webp",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.0854445468576!2d-98.2389591!3d18.971833499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfb95f4728a307%3A0x4616f6d25a7d3f2a!2sEventos!5e0!3m2!1ses-419!2smx!4v1775364620740!5m2!1ses-419!2smx"
+  },
+  "family": {
+    "parents": [
+      {
+        "names": [
+          "María de Lourdes Meza Hernández",
+          "José Rafael Maldonado Hernández"
+        ],
+        "role": "PADRES DE LA NOVIA"
+      },
+      {
+        "names": ["Mercedes Vázquez Ruiz", "Patricio Nájera Ramírez "],
+        "role": "PADRES DEL NOVIO"
+      }
+    ],
+    "godparents": [
+      {
+        "names": ["Areli Flores Meza", "Jesús Osvaldo Cholula Guerrero"],
+        "role": "PADRINOS DE VELACIÓN"
+      }
+    ]
+  },
+  "hotels": [
+    {
+      "name": "Aloft Guadalajara Sur",
+      "address": "Av. Punto Sur 235, Los Gavilanes, 45645 Los Gavilanes, Jal.",
+      "phone": "",
+      "mapsLink": "https://maps.app.goo.gl/XLM36hnSgJSpzux26",
+      "image": "/images/hotels/Aloft.webp"
+    },
+    {
+      "name": "Ramada Encore GDL Sur",
+      "address": "1710 Lopez Mateos Sur Ave, 45645 Jal.",
+      "phone": "",
+      "mapsLink": "https://maps.app.goo.gl/7GXVfwRL5JtirUJ69",
+      "image": "/images/hotels/Ramada.webp"
+    },
+    {
+      "name": "Microtel Inn & Suites by Wyndham Guadalajara Sur",
+      "address": "Av. Adolfo López Mateos Sur 1710-Int. F-1, San José del Tajo, El Palomar, 45645 Palomar, Jal.",
+      "phone": "",
+      "mapsLink": "https://maps.app.goo.gl/9JhY1fQcdWovC91Z7",
+      "image": "/images/hotels/Microtel.webp"
+    },
+    {
+      "name": "City Express Plus by Marriott Guadalajara Palomar",
+      "address": "Av. Adolfo López Mateos Sur 1450, Col. Las Villas, 45643 Palomar, Jal.",
+      "phone": "",
+      "mapsLink": "https://maps.app.goo.gl/xearx9Yxwny3nqtFA",
+      "image": "/images/hotels/Citiexpress.webp"
+    }
+  ],
+  "makeup": [
+    {
+      "avatar": "/images/makeup/moni-colmenares.webp",
+      "username": "moni.colmenares",
+      "followers": "1.494 seguidores",
+      "name": "Monica Colmenares",
+      "phone": "33 1366 4738",
+      "code": "Boda Majo y Mau",
+      "service": "Servicio A Domicilio",
+      "profileLink": "https://instagram.com/moni.colmenares"
+    },
+    {
+      "avatar": "/images/makeup/esmeralda.webp",
+      "username": "esmemejiamakeup",
+      "followers": "2.940 seguidores",
+      "name": "Esmeralda Mejía",
+      "phone": "33 3956 6923",
+      "service": "Servicio A Domicilio",
+      "profileLink": "https://instagram.com/esmemejiamakeup"
+    }
+  ],
+  "rent_cars": [
+    {
+      "name": "Hertz Guadalajara",
+      "text": "(Descuento Especial)",
+      "image": "/images/hertz.webp",
+      "link": "hertzmexico.com/bonda/"
+    },
+    {
+      "name": "Alamo",
+      "text": "(Código Descuento)",
+      "image": "/images/alamo.webp",
+      "link": "wa.me/5565411924?text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20obtener%20el%20c%C3%B3digo%20de%20Alamo%20para%20rentar%20un%20auto%20para%20la%20boda%20de%20Majo%20y%20Mau"
+    }
+  ],
+  "itinerary": [
+    {
+      "time": "3:45 PM",
+      "title": "Ceremonia",
+      "location": ""
+    },
+    {
+      "time": "6:45 PM",
+      "title": "Recepción",
+      "location": ""
+    }
+  ],
+  "giftTable": {
+    "message": "Estar contigo es lo más importante para nosotros, y si nace de tu corazón un detalle, una linda opción de regalo son pañalitos Rascal + Friends.",
+    "options": [
+      {
+        "type": "Amazon",
+        "details": {
+          "numeroEvento": "3GNQQ5X7W7K4B"
+        }
+      }
+    ]
+  },
+  "dressCode": {
+    "image": "/images/dress-code.webp",
+    "restrictions": [
+      "Mujeres: Vestido largo, zapatilla y bolso.",
+      "Hombres: Traje formal con corbata, zapato cerrado y calcetines.",
+      "No vestidos blancos, beige, marfil o similares (reservados para la novia).",
+      "Nota: Para mayor comodidad, pueden traer un cambio de tenis acordes al evento para disfrutar la fiesta."
+    ]
+  },
+  "restrictions": {
+    "restriction": ["Sólo adultos", "Pases intransferibles"]
+  },
+  "frase": "Acompañanos a celebrar el baby shower de \n\nHellen César López",
+  "fraseForm": "Nos encantará contar contigo. Por favor confirma tu asistencia antes del 17 de octubre para ayudarnos a preparar todo con cariño."
+}

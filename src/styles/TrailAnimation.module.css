@@ -1,17 +1,16 @@
 .container {
-  padding: 20px 70px;
+  padding: 0 35px 0;
   display: flex;
   justify-content: center;
   align-items: center;
-
-  min-height: 80px;
+  min-height: 60px;
 }
 
 .quoteWrapper {
   max-width: 100%;
   text-align: center;
   position: relative;
-  min-height: 6rem; /* reserva altura */
+  min-height: 0rem; /* reserva altura */
 }
 
 .quoteText {

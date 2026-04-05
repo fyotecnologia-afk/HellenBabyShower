@@ -79,10 +79,15 @@ export default function ListaInvitaciones() {
   }, []);
 
   const copiarAlPortapapeles = async (url: string) => {
-    const textoCompleto = `Nos llena de alegría compartir contigo que inos casamos! 💍✨
-Queremos invitarte con mucho cariño a nuestra boda.
+    const textoCompleto = `¡Hola! 💕
 
-Será un honor contar con tu presencia.
+Con mucha alegría queremos invitarte a celebrar la llegada de nuestro bebé 👶✨
+
+Hemos preparado esta invitación con mucho cariño para compartir contigo todos los detalles:
+
+Esperamos que puedas acompañarnos en este momento tan especial para nosotros 💛
+
+¡Nos encantará contar contigo! 🍼🎉
 Con cariño,
 Familia César López❤️\n\n${url}`;
 
